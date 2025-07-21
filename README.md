@@ -46,13 +46,13 @@ A robust backend system designed to manage hospital workflows including **patien
 
 [ Postman / Frontend Client ]
 |
-v
++--> 
 [ Spring Boot Controllers ]
 |
-v
++--> 
 [ Service Layer ]
 |
-v
++--> 
 [ Repositories (JPA) ] ---> [ PostgreSQL Database ]
 |
 +--> [ Razorpay Integration ]
